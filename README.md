@@ -28,8 +28,7 @@ Vá até o unico arquivo .ipynb e no cabeçalho, escolha por rodar usando colab
 
 - [Site Alura](https://www.alura.com.br/)
 - [Google Colab](https://colab.research.google.com/)
-- Livros e artigos sobre GANs e deep learning.
-
+  
 ## Autor
 
 Este desafio foi criado por Quézia
