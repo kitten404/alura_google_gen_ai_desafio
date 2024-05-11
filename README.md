@@ -16,7 +16,8 @@ Este desafio consiste em um sistema de detecção de golpes, onde o usuário pod
 
 ## Como Usar
 
-Vá até o unico arquivo .ipynb e no cabeçalho, escolha por rodar usando colab 
+Vá até o unico arquivo .ipynb e no cabeçalho, escolha por rodar usando colab, ao utilizar o google colab, nao se esqueça de usar sua propria api key, adicione nas secrets uma variavel chamada myapikey e nela insira a sua própria chave.
+
 1. O usuário insere informações relevantes no prompt.
 2. O sistema utiliza um modelo de inteligência artificial treinado para analisar o texto inserido.
 3. Com base em padrões identificados durante o treinamento, o sistema determina se o texto se parece com um golpe conhecido.
