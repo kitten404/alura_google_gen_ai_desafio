@@ -2,9 +2,11 @@
 
 Este é um desafio que visa explorar e aplicar conceitos de Inteligência Artificial Generativa, utilizando Python e recursos educacionais do site Alura.
 
+
 ## Descrição do Desafio
 
-O objetivo deste desafio é desenvolver um modelo de GAN capaz de gerar imagens realistas de rostos humanos. Utilizaremos Python como linguagem principal de programação e faremos uso de aulas e materiais educacionais disponíveis no site Alura para auxiliar no aprendizado e desenvolvimento do projeto.
+Este desafio consiste em um sistema de detecção de golpes, onde o usuário pode inserir informações através do prompt e receber uma análise sobre se a informação parece ser um golpe ou não. A detecção é realizada por meio de inteligência artificial, utilizando um modelo treinado com base em um conjunto de dados compilado a partir de uma fonte criada pelo próprio autor, incluindo uma lista de artigos que discutem e descrevem diferentes tipos de golpes.
+
 
 ## Recursos Utilizados
 
@@ -12,17 +14,13 @@ O objetivo deste desafio é desenvolver um modelo de GAN capaz de gerar imagens 
 - **Alura**: Site de educação online com cursos sobre Python, aprendizado de máquina e outros temas relevantes.
 - **Google Colab**: Plataforma de computação em nuvem baseada em Jupyter Notebook, que oferece acesso gratuito a GPUs para treinamento de modelos de machine learning.
 
-## Etapas do Desafio
-
-1. **Estudo e Preparação**: Iniciar com cursos relevantes sobre Python, redes neurais e GANs disponíveis no site Alura.
-2. **Implementação do Modelo GAN**: Desenvolver o modelo de GAN utilizando Python, com base nos conhecimentos adquiridos nos cursos.
-3. **Treinamento do Modelo**: Utilizar o Google Colab ou recursos locais para treinar o modelo GAN com um conjunto de dados de rostos humanos.
-4. **Avaliação e Ajustes**: Avaliar a qualidade das imagens geradas pelo modelo e realizar ajustes necessários para melhorar o desempenho.
-5. **Documentação e Apresentação**: Documentar o processo de desenvolvimento e os resultados obtidos, apresentando-os de forma clara e organizada.
-
 ## Como Usar
 
 Vá até o unico arquivo .ipynb e no cabeçalho, escolha por rodar usando colab 
+1. O usuário insere informações relevantes no prompt.
+2. O sistema utiliza um modelo de inteligência artificial treinado para analisar o texto inserido.
+3. Com base em padrões identificados durante o treinamento, o sistema determina se o texto se parece com um golpe conhecido.
+4. O resultado da análise é apresentado ao usuário, indicando se a informação inserida parece ser um golpe ou não.
 
 ## Referências
 
